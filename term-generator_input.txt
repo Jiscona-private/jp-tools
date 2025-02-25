@@ -1,0 +1,5 @@
+length:2-7
+repetitions:10000
+a:40
+ :10
+b:50
